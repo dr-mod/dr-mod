@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-mod&layout=compact&langs_count=10&exclude_repo=jhipster-books" /> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-mod&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs,prs" />
+
 <!--
 **dr-mod/dr-mod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
